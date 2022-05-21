@@ -3,7 +3,7 @@
   }
   
   body {
-    background-color: white;
+    background-color: #00c199;
   }
   h1.main {
   
@@ -14,81 +14,37 @@
   
   }
   h1.a {
-    color: blue;
+    color: #042c9d;
     margin-top: 0px;
     margin-left:80%;
     margin-right:0px;
     margin-bottom:0px;
     text-align: center;
-    background-color: grey;
-    border: 1px solid black;
-   }
-   h1.b {
-    color: black;
-    margin-top: 0px;
-    margin-left:80%;
-    margin-right:0px;
-    margin-bottom:5px;
-    text-align: center;
-    background-color: navy;
-    border: 1px solid black;
-   }
-  
-   h1.c {
-    color: white;
-    margin-top: 0px;
-    margin-left:65%;
-    margin-right:0px;
-    margin-bottom:5px;
-    text-align: center;
-    background-color: black;
-    border: 1px solid black;
-   }
+    background-color: #9ef9e2;
+    border-left: 2px solid black;
+   border-bottom: 2px solid black;}
+
+
   
   section.a {
   
   border: 3px solid black;
-  background-color:green;
-  color: white;
+  background-color: #1de11da1;
+  color: #040304;
   margin-right: 10px;
   margin-left:10px;
   margin-top: 15px;
-  font-family: sans-serif;
-  height: 150px;
+  height: 200px;font-family: arial;
+  
   overflow: hidden;
   }
-  section.b {
-  
-  border: 3px solid black;
-  background-color:green;
-  color: white;
-  margin-right: 10px;
-  margin-left:10px;
-  margin-top: 15px;
-  font-family: sans-serif;
-  height: 150px;
-  overflow: hidden;
-  
-  
-  }
-  section.c {
-  border: 3px solid black;
-  background-color:green;
-  color: white;
-  margin-right: 10px;
-  margin-left:10px;
-  margin-top: 15px;
-  font-family: sans-serif;
-  height: 150px;
-  overflow: hidden;
-  
-  
-  }
+
+
   
   p{
   
-  margin-top: 5px;
-  margin-left: 5px;
+  
+  margin: 10px;
   }
   
   .row{
