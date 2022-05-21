@@ -92,7 +92,7 @@
   }
   
   .row{
-    width5100%;
+    width:100%;
   }
   
   @media(min-width: 992px){
@@ -216,3 +216,4 @@
      width: 100%;
    }
   }
+}
